@@ -24,4 +24,4 @@
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ross-tordiffe&show_icons=true&theme=onedark)
 ### [![GitHub Streak](https://streak-stats.demolab.com/?user=ross-tordiffe&theme=onedark)](https://git.io/streak-stats)
 
-⚠️ Note: I am currently using Unity **Version Control** to commit changes for the project I am currently working on. Those commits unfourtunatley can't be reflected here yet.
+⚠️ Note: I am currently using **Unity's Version Control** to commit changes for the project I am currently working on. Those commits unfourtunatley can't be reflected here yet.
