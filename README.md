@@ -9,7 +9,7 @@
 
 ##
 - 📫 You can contact me here: [rosstordiffe24@gmail.com](mailto:rosstordiffe24@gmail.com)
-- 🫂 I've had a lot of experience with group projects. See [UniQ](https://github.com/Multimedia-Overachievers/IMY320_Jitter) as an example.
+- 🫂 I've had a lot of experience with group projects. See [UniQ](https://github.com/Multimedia-Overachievers/IMY320_Jitter) and [Sector Zero](https://atebit-games.itch.io/sector-zero) for examples.
 - 🎮 I'm very interested in game and VR development🙂
 ---
 ## ⚔️ Proficiencies
