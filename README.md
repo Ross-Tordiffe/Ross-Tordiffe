@@ -15,7 +15,7 @@
 ---
 ## ⚔️ Proficiencies
 ### 🖼️ Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,jquery,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,vue,jquery,)](https://skillicons.dev)
 ### ⚙️ Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,express,php,mongodb,)](https://skillicons.dev)
 ### 📘 Programming
