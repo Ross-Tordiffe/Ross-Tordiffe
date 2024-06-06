@@ -4,6 +4,7 @@
 <h3 align="center"> 🛠️ I am working part time as the lab manager for the immersive technology lab at the University of Pretoria </h3>
 
 <div align="center">
+  
   [![wakatime](https://wakatime.com/badge/user/da6bc04f-4670-4493-b644-62484e61879e.svg)](https://wakatime.com/@da6bc04f-4670-4493-b644-62484e61879e)
 </div>
 
