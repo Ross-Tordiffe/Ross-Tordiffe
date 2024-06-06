@@ -11,7 +11,7 @@
 ##
 - 📫 You can contact me here: [rosstordiffe24@gmail.com](mailto:rosstordiffe24@gmail.com)
 - 🫂 I've had a lot of experience with group projects. See [Memento Mori](https://github.com/Multimedia-Overachievers/COS214-Project) as an example.
-- 🎮 I'm very interested in game development🙂
+- 🎮 I'm very interested in game and VR development🙂
 ---
 ## ⚔️ Proficiencies
 ### 🖼️ Front-end
