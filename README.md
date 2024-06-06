@@ -1,16 +1,15 @@
-<h1 align="center"> ✨ Hey there, I'm Ross Tordiffe. Welcome ✨</h1>
+<h1 align="center"> ✨ Hey there, I'm Ross. Welcome ✨</h1>
 
 <h3 align="center"> 🎓 I'm an honours student, specialising in <a href="https://www.up.ac.za/information-science/article/1946993/bis-hons-specialising-in-multimedia">BIS (HONS) Multimedia</a> at the University of Pretoria </h3>
 <h3 align="center"> 🛠️ I am working part time as the lab manager for the immersive technology lab at the University of Pretoria </h3>
 
 <div align="center">
-
   [![wakatime](https://wakatime.com/badge/user/da6bc04f-4670-4493-b644-62484e61879e.svg)](https://wakatime.com/@da6bc04f-4670-4493-b644-62484e61879e)
 </div>
 
 ##
 - 📫 You can contact me here: [rosstordiffe24@gmail.com](mailto:rosstordiffe24@gmail.com)
-- 🫂 I've had a lot of experience with group projects. See [Memento Mori](https://github.com/Multimedia-Overachievers/COS214-Project) as an example.
+- 🫂 I've had a lot of experience with group projects. See [UniQ](https://github.com/Multimedia-Overachievers/IMY320_Jitter) as an example.
 - 🎮 I'm very interested in game and VR development🙂
 ---
 ## ⚔️ Proficiencies
