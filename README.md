@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ Hey there, I'm Ross. Welcome! ✨</h1>
+<h1 align="center"> ✨ Hey there, I'm Maisy. Welcome! ✨</h1>
 
 <h3 align="center"> 🎓 I'm an honours student, specialising in <a href="https://www.up.ac.za/information-science/article/1946993/bis-hons-specialising-in-multimedia">BIS (HONS) Multimedia</a> at the University of Pretoria </h3>
 <h3 align="center"> 🛠️ I am working part time as the lab manager for the immersive technology lab at the University of Pretoria </h3>
